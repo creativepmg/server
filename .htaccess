@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^relaxradio\.fm [NC]
+RewriteRule ^(.*)$ http://www.relaxradio.fm/$1 [L,R=301,NC]

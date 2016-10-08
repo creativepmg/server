@@ -1,0 +1,33 @@
+[04-Sep-2016 19:37:05 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rrfm/public_html/chat/index.php:107) in /home/rrfm/public_html/chat/index.php on line 127
+[04-Sep-2016 19:37:05 Etc/GMT] PHP Notice:  Undefined variable: name in /home/rrfm/public_html/chat/index.php on line 134
+[04-Sep-2016 19:37:05 Etc/GMT] PHP Notice:  Undefined variable: name in /home/rrfm/public_html/chat/index.php on line 134
+[04-Sep-2016 19:37:05 Etc/GMT] PHP Notice:  Undefined variable: avatar_url in /home/rrfm/public_html/chat/index.php on line 134
+[04-Sep-2016 19:37:05 Etc/GMT] PHP Notice:  Undefined variable: profile_url in /home/rrfm/public_html/chat/index.php on line 134
+[04-Sep-2016 19:37:05 Etc/GMT] PHP Notice:  Undefined variable: avatar_url in /home/rrfm/public_html/chat/index.php on line 134
+[04-Sep-2016 19:37:05 Etc/GMT] PHP Notice:  Undefined variable: profile_url in /home/rrfm/public_html/chat/index.php on line 134
+[04-Sep-2016 19:37:24 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rrfm/public_html/chat/index.php:107) in /home/rrfm/public_html/chat/index.php on line 127
+[04-Sep-2016 19:37:24 Etc/GMT] PHP Notice:  Undefined variable: name in /home/rrfm/public_html/chat/index.php on line 134
+[04-Sep-2016 19:37:24 Etc/GMT] PHP Notice:  Undefined variable: name in /home/rrfm/public_html/chat/index.php on line 134
+[04-Sep-2016 19:37:24 Etc/GMT] PHP Notice:  Undefined variable: avatar_url in /home/rrfm/public_html/chat/index.php on line 134
+[04-Sep-2016 19:37:24 Etc/GMT] PHP Notice:  Undefined variable: profile_url in /home/rrfm/public_html/chat/index.php on line 134
+[04-Sep-2016 19:37:24 Etc/GMT] PHP Notice:  Undefined variable: avatar_url in /home/rrfm/public_html/chat/index.php on line 134
+[04-Sep-2016 19:37:24 Etc/GMT] PHP Notice:  Undefined variable: profile_url in /home/rrfm/public_html/chat/index.php on line 134
+[04-Sep-2016 19:37:47 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rrfm/public_html/chat/index.php:107) in /home/rrfm/public_html/chat/index.php on line 127
+[04-Sep-2016 19:37:47 Etc/GMT] PHP Notice:  Undefined variable: name in /home/rrfm/public_html/chat/index.php on line 134
+[04-Sep-2016 19:37:47 Etc/GMT] PHP Notice:  Undefined variable: name in /home/rrfm/public_html/chat/index.php on line 134
+[04-Sep-2016 19:37:47 Etc/GMT] PHP Notice:  Undefined variable: avatar_url in /home/rrfm/public_html/chat/index.php on line 134
+[04-Sep-2016 19:37:47 Etc/GMT] PHP Notice:  Undefined variable: profile_url in /home/rrfm/public_html/chat/index.php on line 134
+[04-Sep-2016 19:37:47 Etc/GMT] PHP Notice:  Undefined variable: avatar_url in /home/rrfm/public_html/chat/index.php on line 134
+[04-Sep-2016 19:37:47 Etc/GMT] PHP Notice:  Undefined variable: profile_url in /home/rrfm/public_html/chat/index.php on line 134
+[04-Sep-2016 19:38:05 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rrfm/public_html/chat/index.php:107) in /home/rrfm/public_html/chat/index.php on line 127
+[04-Sep-2016 19:38:05 Etc/GMT] PHP Notice:  Undefined variable: name in /home/rrfm/public_html/chat/index.php on line 134
+[04-Sep-2016 19:38:05 Etc/GMT] PHP Notice:  Undefined variable: name in /home/rrfm/public_html/chat/index.php on line 134
+[04-Sep-2016 19:38:05 Etc/GMT] PHP Notice:  Undefined variable: avatar_url in /home/rrfm/public_html/chat/index.php on line 134
+[04-Sep-2016 19:38:05 Etc/GMT] PHP Notice:  Undefined variable: profile_url in /home/rrfm/public_html/chat/index.php on line 134
+[04-Sep-2016 19:38:05 Etc/GMT] PHP Notice:  Undefined variable: avatar_url in /home/rrfm/public_html/chat/index.php on line 134
+[04-Sep-2016 19:38:05 Etc/GMT] PHP Notice:  Undefined variable: profile_url in /home/rrfm/public_html/chat/index.php on line 134
+[04-Sep-2016 20:49:32 Etc/GMT] PHP Parse error:  syntax error, unexpected '';"></center></p>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/rrfm/public_html/chat/index.php on line 128
+[04-Sep-2016 20:49:36 Etc/GMT] PHP Parse error:  syntax error, unexpected '';"></center></p>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/rrfm/public_html/chat/index.php on line 128
+[04-Sep-2016 20:49:37 Etc/GMT] PHP Parse error:  syntax error, unexpected '';"></center></p>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/rrfm/public_html/chat/index.php on line 128
+[04-Sep-2016 20:51:36 Etc/GMT] PHP Parse error:  syntax error, unexpected '';</script>"></center></p>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/rrfm/public_html/chat/index.php on line 128
+[04-Sep-2016 20:51:38 Etc/GMT] PHP Parse error:  syntax error, unexpected '';</script>"></center></p>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/rrfm/public_html/chat/index.php on line 128
